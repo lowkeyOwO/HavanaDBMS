@@ -16,3 +16,5 @@ to install frontend
 To run the project
 npm start
 
+To view a sample of the project, visit https://drab-gold-giraffe-tux.cyclic.app/login
+Contact developers for login access
